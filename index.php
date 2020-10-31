@@ -21,5 +21,6 @@
 		</thead>
 	</table> -->
 	<h1>Kampret</h1>
+	<h1>Kampret</h1>
 </body>
 </html>
