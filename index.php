@@ -4,7 +4,7 @@
 	<title>Belajar PHP</title>
 </head>
 <body>
-	<table border="1">
+	<!-- <table border="1">
 		<thead>
 			<tr>
 				<td>No</td>
@@ -19,6 +19,7 @@
 				<td>Restu Dwi Cahyo</td>
 			</tr>
 		</thead>
-	</table>
+	</table> -->
+	<h1>Kampret</h1>
 </body>
 </html>
